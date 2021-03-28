@@ -4,5 +4,5 @@ services:
     build: .
     image: getdiscordusers:latest
     environment:
-      TOKEN: ODI1Njk3NjI3OTMyMTk2ODg0.YGBs1w.Y0NRfuVowGGNDZes_BKcixRZ8lY
+      TOKEN: <token>
       CHANNEL: general
